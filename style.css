@@ -5,7 +5,7 @@ header {
 
 .content {
   width: 100%;
-  height: 700px;
+  height: 800px;
   border: 4px solid #2e99a9;
   border-width: 5px 0;
   margin: 30px;
@@ -35,4 +35,9 @@ label > span {
 
 .button_wrapper {
   text-align: center;
+  margin: 20px 0;
+}
+
+label:first-child {
+  margin: 20px 0 0 0;
 }
